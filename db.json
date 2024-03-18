@@ -1,0 +1,558 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "konurbaevbajel90@gmail.com",
+      "name": "Bayel",
+      "city": "Bishkek",
+      "street": "Abdymonuva",
+      "home": 2,
+      "orders": [],
+      "carts": []
+    }
+  ],
+  "bicycles": [
+    {
+      "id": 1,
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "title": "Профессиональный гоночный хардтейл",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "435 000",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 2,
+      "image": "https://sportexpert.kg/wp-content/uploads/2022/03/%D0%92%D0%95%D0%9B%D0%9E%D0%A1%D0%98%D0%9F%D0%95%D0%94-SILVERBACK-SKID-20-ME-deep-green-anodized-lime-2022.jpg",
+      "title": "Профессиональный гоночный хардтейл",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "649 110",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 3,
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "title": "Профессиональный гоночный хардтейл",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "90 968",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 4,
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "title": "Профессиональный гоночный хардтейл",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "153 400",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 5,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "97 070",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 6,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "649 110",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 7,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "629 100 ",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 8,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "71 499",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 9,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "89 100",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 10,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "89 499",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 11,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "73 300",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 12,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "684 840",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 13,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "89 300",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 14,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "351 890",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 15,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "77 300",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 16,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "78 000",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 17,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "115 000",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 18,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "435 000",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 19,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "435 000",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    },
+    {
+      "id": 20,
+      "title": "Профессиональный гоночный хардтейл",
+      "image": "https://bike-room.com/app/uploads/2024/01/1706016580038YqROnBK1539_Jumbo_Vanaert-12-scaled.jpg",
+      "article": "7655-188",
+      "inStock": true,
+      "price": "435 000",
+      "description": "Профессиональный гоночный хардтейл для кросс-кантри уровня Чемпионата и Кубка Мира. Одна из самых легких рам среди гоночных хардтейлов для кросс-кантри.",
+      "colors": [
+        {
+          "id": 1,
+          "color": "red"
+        },
+        {
+          "id": 2,
+          "color": "green"
+        }
+      ],
+      "quantity": 10,
+      "year": 2016,
+      "wheel": 27.5,
+      "material": "Карбон",
+      "country": "Швейцария"
+    }
+  ],
+  "equipment": [
+    {
+      "id": 1,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 2,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "9 420",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 3,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "9 200",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 4,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 5,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 6,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 7,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 8,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 9,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    },
+    {
+      "id": 10,
+      "title": "Rudy Project Airstorm Lime Fluo White Shiny",
+      "price": "7 990",
+      "image": "https://avatars.mds.yandex.net/get-mpic/4120567/2a0000018b723e18e0a52143039fea9fdf09/orig"
+    }
+  ]
+}
